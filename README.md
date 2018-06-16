@@ -1,9 +1,8 @@
-## hello thadoi(babina)
-you are beautiful
+## Deepak Mitrani
+A full stack developer
 
-### deepak mitrani
-i have just created this for you
+###About
+learning (java, javascript ,python ,c,c++,xml,html,css)
 
-# hello 
-do yo like it
-send heart emoji
+# email
+deepakmitrani@gmail.com
